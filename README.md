@@ -1,9 +1,9 @@
 # TensorFlow
 A history and analysis of the Python library TensorFlow.
+&nbsp;
 
-
-Writers: Haley Anderson, Ryan Kassab, Corey McCrea, Charlie Story
-
+Writers: Haley Anderson, Ryan Kassab, Corey McCrea, Charles Story
+&nbsp;
 
 Python Library: TensorFlow
 
@@ -16,7 +16,7 @@ Python Library: TensorFlow
   TensorFlow is a great option for artificial intelligence projects. 
 
   TensorFlow is a great resource for artificial intelligence projects. If you are looking to learn TensorFlow, Google offers many free tutorials on the TensorFlow library, which can be found at https://www.tensorflow.org/learn.
-
+&nbsp;
 
 Useful Links for Learning about TensorFlow:
 
