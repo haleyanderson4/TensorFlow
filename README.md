@@ -15,7 +15,7 @@ TensorFlow has had quite the history in its 5 years of public release. It was or
 
 TensorFlow is a great option for artificial intelligence projects. It was created with machine learning and neural networks in mind, and as such, when combined with the Keras API it is very easy to use; as easy as calling “Model()”. It’s main use is for image captioning software, such as DeepDream, which is a computer vision program created by Google. It has many interesting use cases in it’s years of release. Some examples of using TensorFlow are Airbnb, which uses TensorFlow to classify images and objects from photos from their listings to improve guest experiences. It can then use these classified images to caption the photos of the rooms. Coca-Cola uses TensorFlow to implement proof of purchase on their mobile app. Kakao uses TensorFlow to predict the completion of ride-hailing requests when sending out drivers. 
 
-	TensorFlow is a great resource for artificial intelligence projects. If you are looking to learn TensorFlow, Google offers many free tutorials on the TensorFlow library, which can be found at https://www.tensorflow.org/learn.
+TensorFlow is a great resource for artificial intelligence projects. If you are looking to learn TensorFlow, Google offers many free tutorials on the TensorFlow library, which can be found at https://www.tensorflow.org/learn.
 
 
 Useful Links for Learning about TensorFlow:
