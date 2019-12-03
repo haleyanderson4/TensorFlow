@@ -32,4 +32,4 @@ https://www.tensorflow.org/about
 
 Link to Presentation:
 
-bit.ly/tensor354(bit.ly/tensor354)
+[bit.ly/tensor354](bit.ly/tensor354)
