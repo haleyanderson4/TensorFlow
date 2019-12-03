@@ -29,3 +29,7 @@ https://www.guru99.com/what-is-tensorflow.html
 https://ai.google/stories/tensorflow/
 
 https://www.tensorflow.org/about
+
+Link to Presentation:
+
+bit.ly/tensor354
